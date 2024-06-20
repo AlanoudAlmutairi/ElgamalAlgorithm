@@ -1,2 +1,2 @@
 # ElgamalAlgorithm
-Elgamal Algorithm -- information security algorithm --  ** Group project **
+Elgamal Algorithm -- information security algorithm (CPIT 425)  --  ** Group project **
